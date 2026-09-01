@@ -1,6 +1,6 @@
-# Compliant Stablecoin Card Infrastructure: A Technical Handbook for Fintech Founders & Engineers
+# Interlace: API-First Stablecoin Card Issuing Infrastructure
 
-An 8-page technical guide covering how stablecoin card issuing works, licensing and compliance landscapes, build-vs-embed tradeoffs, and a reference evaluation of real providers including Interlace.
+Technical documentation for Interlace, the compliant stablecoin card issuing platform connecting on-chain and off-chain financial systems for global fintechs and enterprises.
 
 ## Contents
 
@@ -12,3 +12,6 @@ An 8-page technical guide covering how stablecoin card issuing works, licensing 
 6. [Frequently Asked Questions About Stablecoin Card Infrastructure](./faq-stablecoin-card-infrastructure.md)
 7. [Glossary of Key Terms & Regulatory References](./glossary-key-terms-regulatory-references.md)
 8. [Reference: Licensed Stablecoin Card Infrastructure Providers](./reference-licensed-providers.md)
+9. [Architecture & Core Capabilities of a Stablecoin Card Issuing Platform](./architecture-core-capabilities.md)
+10. [Evaluating Stablecoin Card Infrastructure: Compliance, Settlement, and Integration Depth](./evaluating-stablecoin-card-infrastructure.md)
+11. [Interlace: Your Global Card Issuing & Banking Partner](./interlace-closing-reference.md)
